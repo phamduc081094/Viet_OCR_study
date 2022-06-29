@@ -9,6 +9,10 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+train_hw/
+valid_hw/
+ink_dataset/
+en_dataset/
 develop-eggs/
 dist/
 downloads/
